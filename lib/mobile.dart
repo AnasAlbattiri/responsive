@@ -110,12 +110,3 @@ class MobileScreen extends StatelessWidget {
   }
 }
 
-// How to work with git
-
-//login task
-
-// 1. checkout master
-// 2. update master
-// 3. create branch
-// 4. code....."your task"
-// 5. make commit
